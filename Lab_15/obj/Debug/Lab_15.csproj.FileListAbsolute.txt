@@ -1,0 +1,6 @@
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\bin\Debug\Lab_15.exe.config
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\bin\Debug\Lab_15.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\bin\Debug\Lab_15.pdb
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\obj\Debug\Lab_15.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\obj\Debug\Lab_15.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Lab_15\Lab_15\obj\Debug\Lab_15.pdb
